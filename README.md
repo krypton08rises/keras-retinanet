@@ -1,3 +1,5 @@
+Please Note that the VisDrone Dataset is to be put in the bin folder along with the annotations.csv and class_mapping.csv, all which are a part of the VisDrone2019-DET-train. 
+
 # Keras RetinaNet [![Build Status](https://travis-ci.org/fizyr/keras-retinanet.svg?branch=master)](https://travis-ci.org/fizyr/keras-retinanet) [![DOI](https://zenodo.org/badge/100249425.svg)](https://zenodo.org/badge/latestdoi/100249425)
 
 Keras implementation of RetinaNet object detection as described in [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
